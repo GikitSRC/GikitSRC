@@ -1,16 +1,46 @@
-### Hi there 👋
+<p align="center">
+<img width="120px" src="https://github.com/GikitSRC/GikitSRC/raw/main/Skyhax.gif">
+</p>
 
-<!--
-**GikitSRC/GikitSRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Skyhax Library</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://discord.gg/2JbtU5HnrY"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://github.com/ACompleteNewb"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
+<a href="https://twitter.com/TheHaxArchive"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
+<a href="https://gpvc.arturio.dev/ChainedTears"><img height="30px" src="https://gpvc.arturio.dev/ChainedTears"><img></a>
+</p>
+<h1 align="center">About</h1>
+Dedicated to ending internet censorship. Write and improves scripts of all kind! Open to suggestions soon.<br>For now, we are only to exploit managed chromebooks and wil be expanded soon. Rewriting everything, coz everythibg sucks.<br><h3 align="center">You can join our discord server <a href="https://discord.gg/2JbtU5HnrY">here</a></h3>
+
+<h1 align="center">Projects</h1>
+**Main**
+- [DuckOS](https://duckos.ga) - A highly WIP operating system that runs in your browser. NOTE: iFrame does not work on ChromeOS 106+
+<p>
+  <img width="240px"src="https://cdn.discordapp.com/attachments/865030916472045618/1053045344046428353/DuckOS.png">
+</p>
+
+**Upcoming**
+- Discord AIO 2.0 - Optimized version of Discord AIO, probably with new features
+- Shadow Bruteforcer - Discord Token Bruteforcer
+
+**Archived**
+- None! (for now)
+
+**Closed Source Projects**
+- Inflex Discord Bot - Another WIP bot that forwards NGROK IP adresses to your Discord Channel
+- None... for now
+
+**Other**
+- None for now!
+
+### Contributors
+- __Arthur J__ ``arthr#6596`` - Main Developer of Skyhax
+- __Neil M__ ``IdleUser;)#1402`` - Head Salesperson irl
+- __Momo H__ ``SalmonKnight#2775`` - Not really a contributor, gonna remove soon lmao
+- __Neel B__ ``{No Contact}`` - Also someone who sells irl
+- __HIRING__ - Needs someone to advertise online
+### Small Contrubutors.... heh (A.K.A Credits stuff)
+- __Carter J__ ``{No Contact}`` - Added the glasses on da duck
+- __Nam L__ ``{No Contact}`` - The cringiest motto ever
