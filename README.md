@@ -16,7 +16,7 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
 
 <h1 align="center">Projects</h1>
 **Main**
-- [DuckOS](https://duckos.ga) - A highly WIP operating system that runs in your browser. NOTE: iFrame does not work on ChromeOS 106+
+- [AtlasOS](https://atlasos.skyhax.lol) - A highly WIP operating system that runs in your browser. NOTE: iFrame does not work on ChromeOS 106+
 <p>
   <img width="240px"src="https://cdn.discordapp.com/attachments/865030916472045618/1053045344046428353/DuckOS.png">
 </p>
