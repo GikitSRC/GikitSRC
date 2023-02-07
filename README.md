@@ -12,7 +12,7 @@
 <a href="https://gpvc.arturio.dev/ChainedTears"><img height="30px" src="https://gpvc.arturio.dev/ChainedTears"><img></a>
 </p>
 <h1 align="center">About</h1>
-Dedicated to ending internet censorship. Write and improves scripts of all kind! Open to suggestions soon.<br>For now, we are only to exploit managed chromebooks and wil be expanded soon. Rewriting everything, coz everythibg sucks.<br><h3 align="center">You can join our discord server <a href="https://discord.gg/2JbtU5HnrY">here</a></h3>
+Dedicated to ending internet censorship. Write and improves scripts of all kind! Open to suggestions soon.<br>For now, we are only to exploit managed chromebooks and wil be expanded soon. Rewriting everything, coz everything sucks.<br><h3 align="center">You can join our discord server <a href="https://discord.gg/2JbtU5HnrY">here</a></h3>
 
 <h1 align="center">Projects</h1>
 **Main**
