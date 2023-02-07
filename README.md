@@ -15,22 +15,22 @@
 Dedicated to ending internet censorship. Write and improves scripts of all kind! Open to suggestions soon.<br>For now, we are only to exploit managed chromebooks and wil be expanded soon. Rewriting everything, coz everything sucks.<br><h3 align="center">You can join our discord server <a href="https://discord.gg/2JbtU5HnrY">here</a></h3>
 
 <h1 align="center">Projects</h1>
-**Main**
-- [AtlasOS](https://atlasos.skyhax.lol) - A highly WIP operating system that runs in your browser. NOT OPENING APP PROBLEM FIXED!!!
+<b>Main</b><br><br>
+- <a href="https://atlasos.skyhax.lol">AtlasOS</a> - A highly WIP operating system that runs in your browser. NOT OPENING APP PROBLEM FIXED!!!
   <img width="240px"src="https://cdn.discordapp.com/attachments/865030916472045618/1053045344046428353/DuckOS.png">
 
-**Upcoming**
+<b>Upcoming</b>
 - Discord AIO 2.0 - Optimized version of Discord AIO, probably with new features
 - Shadow Bruteforcer - Discord Token Bruteforcer
 
-**Archived**
+<b>Archived</b>
 - None! (for now)
 
-**Closed Source Projects**
+<b>Closed sourced projects</b>
 - Inflex Discord Bot - Another WIP bot that forwards NGROK IP adresses to your Discord Channel
 - None... for now
 
-**Other**
+<b>Other Projects</b>
 - None for now!
 
 ### Contributors
