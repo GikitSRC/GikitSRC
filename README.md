@@ -41,4 +41,4 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
 ### Small Contrubutors.... heh (A.K.A Credits stuff)
 - __Carter J__ ``{No Contact}`` - Added the glasses on da duck
 - __Nam L__ ``{No Contact}`` - The cringiest motto ever
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=GikitSRC&show_icons=true&theme=radical&hide=contribs,issues">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=GikitSRC&show_icons=true&theme=dark">
