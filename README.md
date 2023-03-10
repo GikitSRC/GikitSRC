@@ -15,7 +15,7 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
 
 <h1 align="center">Projects</h1>
 <b>Main</b><br><br>
-- <a href="https://atlasos.skyhax.lol">AtlasOS</a> - A highly WIP operating system that runs in your browser. NOT OPENING APP PROBLEM FIXED!!!
+- <a href="https://skyhax.lol">DuckOS</a> - A revolutionary new Operating System that can run fully from your browser. Proxy and games support from Rammerhead and Utopia. Use this web based operating system to take control of your computer and break free from internet censoship.
   <img width="240px"src="https://cdn.discordapp.com/attachments/865030916472045618/1053045344046428353/DuckOS.png">
 
 <b>Upcoming</b>
