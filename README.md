@@ -19,15 +19,11 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
   <img width="240px"src="https://cdn.discordapp.com/attachments/865030916472045618/1053045344046428353/DuckOS.png">
 
 <b>Upcoming</b>
-- Discord AIO 2.0 - Optimized version of Discord AIO, probably with new features
 - Shadow Bruteforcer - Discord Token Bruteforcer
+- DuckOS v5 - DuckOS, but improved UI and with alot more features ;)
 
 <b>Archived</b>
-- None! (for now)
-
-<b>Closed sourced projects</b>
-- Inflex Discord Bot - Another WIP bot that forwards NGROK IP adresses to your Discord Channel
-- None... for now
+- Discord AIO 2.0 - Optimized version of Discord AIO, probably with new features
 
 <b>Other Projects</b>
 - None for now!
