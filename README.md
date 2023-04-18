@@ -35,8 +35,7 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
 ### Contributors
 - __Arthur J__ ``1mp0ss1bl3#1234`` - Main Developer of Skyhax
 - __Neil M__ ``IdleUser;)#1402`` - Head Salesperson irl
-- __Momo H__ ``SalmonKnight#2775`` - Not really a contributor, gonna remove soon lmao
-- __Neel B__ ``{No Contact}`` - Also someone who sells irl
+- __Rushil C__ ``TasteTheRainbow#8544`` - Bug finder (i think)
 - __HIRING__ - Hiring positions, fill out google form <a href="https://forms.gle/7mGoxJ4dSQzctWcu6">here</a>
 ### Small Contrubutors.... heh (A.K.A Credits stuff)
 - __Carter J__ ``{No Contact}`` - Added the glasses on da duck
