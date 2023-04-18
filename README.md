@@ -33,7 +33,3 @@ Dedicated to ending internet censorship. Write and improves scripts of all kind!
 - __Neil M__ ``IdleUser;)#1402`` - Head Salesperson irl
 - __Rushil C__ ``TasteTheRainbow#8544`` - Bug finder (i think)
 - __HIRING__ - Hiring positions, fill out google form <a href="https://forms.gle/7mGoxJ4dSQzctWcu6">here</a>
-### Small Contrubutors.... heh (A.K.A Credits stuff)
-- __Carter J__ ``{No Contact}`` - Added the glasses on da duck
-- __Nam L__ ``{No Contact}`` - The cringiest motto ever
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=GikitSRC&show_icons=true&theme=dark">
