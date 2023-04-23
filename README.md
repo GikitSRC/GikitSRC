@@ -2,7 +2,7 @@
   <img align="center" src="https://raw.githubusercontent.com/GikitSRC/GikitSRC/main/banner.png" title="My banner">
 </a>
 
-<h2 align="center">You can catch by:</h3>
+<h2 align="center">You can catch me by:</h3>
 <h4 align="center">
   <code><a href="https://discord.gg/2JbtU5HnrY"><img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Discord.png"> Discord</a></code>
   <code><a href="https://t.me/skyhaxfr"><img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Telegram.png"> Telegram</a></code>
