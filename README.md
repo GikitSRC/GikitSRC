@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="center" src="https://raw.githubusercontent.com/GikitSRC/GikitSRC/main/banner.png" title="Hello, my name is Arthur Jiang. I'm the founder of Skyhax and the sole developer of DuckOS.">
+  <img align="center" src="/profile.png" title="Hello, my name is Arthur Jiang. I'm the founder of Skyhax and the sole developer of DuckOS.">
 </a>
 
 <h2 align="center">You can catch me by:</h3>
