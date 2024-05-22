@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="center" src="/image.png" title="Hello, my name is Arthur Jiang. I'm the founder of Skyhax and the sole developer of DuckOS.">
+  <img align="center" src="/banner.png" title="About me banner">
 </a>
 
 <h2 align="center">You can catch me by:</h3>
